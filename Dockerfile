@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM hypriot/rpi-alpine:3.5
 MAINTAINER dev@jpillora.com
 # prepare go env
 ENV GOPATH /go
